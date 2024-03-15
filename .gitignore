@@ -1,0 +1,9 @@
+# Ignore myenv folder
+myenv/
+
+
+__pycache__
+migrations
+db.*
+
+.DS_Store
